@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Bembangan sa cavite",
+    "description": "Description 1",
+    "date": "2025-02-01",
+    "maxAttendees": 100,
+    "attendees": 69,
+    "organizer": "Javaris Lamar Javarison Lamar",
+    "createdBy": 123,
+    "img": "https://img.freepik.com/free-photo/defocused-male-boxer-posing-with-boxing-stance_23-2148615013.jpg?t=st=1737874816~exp=1737878416~hmac=cb4cc8097175747ca9b76fc8e75133462dae3ca35fc39663c9ea41c3f8176767&w=1380"
+  },
+  {
+    "id": 2,
+    "title": "Session sa etivac",
+    "description": "Description 2",
+    "date": "2025-04-02",
+    "maxAttendees": 100,
+    "attendees": 69,
+    "organizer": "Javaris Lamar Javarison Lamar",
+    "createdBy": 123,
+    "img": "https://hopetrustindia.com/wp-content/uploads/2022/09/Most-abused-drug.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Bardagulan sa KABSU main",
+    "description": "Description 3",
+    "date": "2025-03-03",
+    "maxAttendees": 100,
+    "attendees": 100,
+    "organizer": "Javaris Lamar Javarison Lamar",
+    "createdBy": 124,
+    "img": "https://img.freepik.com/free-photo/defocused-male-boxer-posing-with-boxing-stance_23-2148615013.jpg?t=st=1737874816~exp=1737878416~hmac=cb4cc8097175747ca9b76fc8e75133462dae3ca35fc39663c9ea41c3f8176767&w=1380"
+  },
+  {
+    "id": 4,
+    "title": "Bardagulan sa SI BI ES U",
+    "description": "Description 4",
+    "date": "2025-04-04",
+    "maxAttendees": 100,
+    "attendees": 69,
+    "organizer": "Javaris Lamar Javarison Lamar",
+    "createdBy": 123,
+    "img": "https://img.freepik.com/free-photo/defocused-male-boxer-posing-with-boxing-stance_23-2148615013.jpg?t=st=1737874816~exp=1737878416~hmac=cb4cc8097175747ca9b76fc8e75133462dae3ca35fc39663c9ea41c3f8176767&w=1380"
+  },
+  {
+    "id": 5,
+    "title": "Suntukan ng mga prof",
+    "description": "Description 5",
+    "date": "2025-05-05",
+    "maxAttendees": 100,
+    "attendees": 69,
+    "organizer": "Javaris Lamar Javarison Lamar",
+    "createdBy": 121,
+    "img": "https://img.freepik.com/free-photo/defocused-male-boxer-posing-with-boxing-stance_23-2148615013.jpg?t=st=1737874816~exp=1737878416~hmac=cb4cc8097175747ca9b76fc8e75133462dae3ca35fc39663c9ea41c3f8176767&w=1380"
+  },
+  {
+    "id": 6,
+    "title": "Eyeball ng mga adik",
+    "description": "Description 6",
+    "date": "2025-06-06",
+    "maxAttendees": 100,
+    "attendees": 69,
+    "organizer": "Javaris Lamar Javarison Lamar",
+    "createdBy": 122,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsN1Zc375E7cpHKAobYNmglckZEWk6B59lZw&s"
+  },
+  {
+    "id": 7,
+    "title": "HAHAHAHAHAHAH",
+    "description": "Description 7",
+    "date": "2025-07-07",
+    "maxAttendees": 100,
+    "attendees": 69,
+    "organizer": "Javaris Lamar Javarison Lamar",
+    "createdBy": 123,
+    "img": "https://img.freepik.com/free-photo/defocused-male-boxer-posing-with-boxing-stance_23-2148615013.jpg?t=st=1737874816~exp=1737878416~hmac=cb4cc8097175747ca9b76fc8e75133462dae3ca35fc39663c9ea41c3f8176767&w=1380"
+  },
+  {
+    "id": 8,
+    "title": "Kasal ni Layla at Gusion",
+    "description": "Description 8",
+    "date": "2025-08-08",
+    "maxAttendees": 100,
+    "attendees": 69,
+    "organizer": "Javaris Lamar Javarison Lamar",
+    "createdBy": 124,
+    "img": "https://img.freepik.com/free-photo/defocused-male-boxer-posing-with-boxing-stance_23-2148615013.jpg?t=st=1737874816~exp=1737878416~hmac=cb4cc8097175747ca9b76fc8e75133462dae3ca35fc39663c9ea41c3f8176767&w=1380"
+  },
+  {
+    "id": 9,
+    "title": "Suntukan ni Thanos at Batman",
+    "description": "Description 9",
+    "date": "2025-09-09",
+    "maxAttendees": 100,
+    "attendees": 69,
+    "organizer": "Javaris Lamar Javarison Lamar",
+    "createdBy": 125,
+    "img": "https://img.freepik.com/free-photo/defocused-male-boxer-posing-with-boxing-stance_23-2148615013.jpg?t=st=1737874816~exp=1737878416~hmac=cb4cc8097175747ca9b76fc8e75133462dae3ca35fc39663c9ea41c3f8176767&w=1380"
+  },
+  {
+    "id": 10,
+    "title": "Party party sa KABSU main",
+    "description": "Description 10",
+    "date": "2025-10-10",
+    "maxAttendees": 100,
+    "attendees": 69,
+    "organizer": "Javaris Lamar Javarison Lamar",
+    "createdBy": 127,
+    "img": "https://media.npr.org/assets/img/2022/11/04/gettyimages-1183414292-1-_slide-30784f99ac10f059c242d37e91d05ead475854f4.jpg"
+  }
+]

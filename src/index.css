@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#root{
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: 100vw !important;
+    background-color: #F0F0F0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
