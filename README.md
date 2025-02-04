@@ -12,6 +12,8 @@
 ```bash
 git clone <repository_url>
 ```
+
+## INSTALL NPM DEPENDENCIES
 4. Using powershell or cmd navigate to the file location of the cloned repository || Open the cloned repository using vs code and start a terminal.
    
 5. Run this command
@@ -19,6 +21,7 @@ git clone <repository_url>
 npm init
 ```
 
+## RUN THE APPLICATION IN YOUR LOCAL MACHINE
 6. Then run the app using this command
 ```bash
 npm run dev
